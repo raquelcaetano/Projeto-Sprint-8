@@ -2,21 +2,21 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Projeto Sprint 8</h1>
+<h1 align="center">Analysis of Marketing Expenses</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **preparação**,**análise**,**testes**, **tratamento** e **relatórios** de dados utilizando Python, Pandas, Matplotlib, Numpy, Seaborn e Operator.
-O objetivo é  ajudar a empresa a otimizar suas despesas com marketing.
+## 📄 Description
+This notebook performs **preparation**, **analysis**, **testing**, **processing**, and **reporting** of data using Python, Pandas, Matplotlib, Numpy, Seaborn, and Operator.
+The goal is to help the company optimize its marketing expenses.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 - Python 3.11.9
 - Jupyter Notebook 
 - Pandas
@@ -28,12 +28,12 @@ O objetivo é  ajudar a empresa a otimizar suas despesas com marketing.
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `Sprint8.ipynb` no **Jupyter Notebook**.
-2. Execute as células em ordem.
-3. Visualize os resultados do tratamento de dados.
+### 🚀 How to use
+1. Open the `Sprint8.ipynb` file in **Jupyter Notebook**.
+2. Run the cells in order.
+3. View the results of the data processing.
 
 ---
 
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
