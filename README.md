@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Analysis of Marketing Expenses</h1>
+<h1 align="center"> Marketing Expense Optimization Dashboard</h1>
 
 <p align="center">
 Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
